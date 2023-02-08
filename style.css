@@ -1,0 +1,18 @@
+#country{
+    color: rgb(255, 153, 0);
+}
+
+.country{
+    font-size: 100px;
+    color: rgb(128, 77, 0);
+}
+
+.country p{
+    font-size: 20px;
+    color: rgb(255, 132, 152);
+}
+
+#sindh{
+    color: darkblue;
+    font-size: 30px;
+}
