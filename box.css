@@ -44,12 +44,4 @@ p.one {
      / 2em 1em 2em 1em;
     -webkit-border-radius: 1em 4em 1em 4em
      / 2em 1em 2em 1em;}
-    p.three {
-    padding: 0px;
-    border-radius: 100px;
-    -moz-border-radius: 100px;
-    -webkit-border-radius: 100px;}
-    padding: 0px;
-    border-radius: 100px;
-    -moz-border-radius: 100px;
-    -webkit-border-radius: 100px;}
+    
